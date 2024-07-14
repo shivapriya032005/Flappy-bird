@@ -67,6 +67,4 @@ We welcome contributions to the Bird Game project! To contribute:
 3. Make your changes.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the MIT License.
